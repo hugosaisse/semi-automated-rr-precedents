@@ -1,0 +1,21 @@
+,Authors,Title,Year,Document Type,Cited by,Country
+5,"Mandal A., Ghosh K., Ghosh S., Mandal S.",Unsupervised approaches for measuring textual similarity between legal court case reports,2021,Article,3,India
+14,"Arora J., Patankar T., Shah A., Joshi S.",Artificial intelligence as legal research assistant,2020,Conference Paper,0,India
+22,Di Nunzio G.M.,A study on lemma vs stem for legal information retrieval using R tidyverse. IMS UniPD @ AILA 2020 Task 1,2020,Conference Paper,0,Italy
+24,"Amin K., Kapetanakis S., Althoff K.-D., Dengel A., Petridis M.",Cases without borders: Automating knowledge acquisition approach using deep autoencoders and siamese networks in case-based reasoning,2019,Conference Paper,1,Germany
+25,"More R., Patil J., Palaskar A., Pawde A.",Removing named entities to find precedent legal cases,2019,Conference Paper,3,India
+28,"Bhattacharya P., Ghosh K., Ghosh S., Pal A., Mehta P., Bhattacharya A., Majumder P.",FIRE 2019 AILA track: Artificial intelligence for legal assistance,2019,Conference Paper,6,India
+36,"Kiryu Y., Ito A., Kasahara T., Hatano H., Fujii M.",A Study of Precedent Retrieval System for Civil Trial,2018,Conference Paper,0,Japan
+40,"Nair A.M., Wagh R.S.",Similarity analysis of court judgements using association rule mining on case citation data-a case study,2018,Article,1,India
+45,"Thuma E., Motlogelwa N.P.",On the importance of legal catchphrases in precedence retrieval,2017,Conference Paper,2,Botswana
+47,"Kulkarni Y.H., Patil R., Shridharan S.",Detection of catchphrases and precedence in legal documents,2017,Conference Paper,1,India
+53,"Zhang N., Pu Y.-F., Yang S.-Q., Zhou J.-L., Gao J.-K.",An Ontological Chinese Legal Consultation System,2017,Article,18,China
+96,"Wyner, A; Peters, W",Towards Annotating and Extracting Textual Legal Case Factors,2010,Proceedings Paper,0,United Kingdom
+113,"Maxwell K.T., Schafer B.",Concept and context in legal information retrieval,2008,Conference Paper,24,United Kingdom
+116,"Raman, V; Palanissamy, A",COMPUTER AIDED LEGAL SUPPORT SYSTEM: An Initial Framework for Retrieving Legal Cases by Case Base Reasoning Approach,2008,Proceedings Paper,0,Malaysia
+127,"Wang R., Zeng Y.",Nonlinear nearest-neighbour matching and its application in legal precedent retrieval,2005,Conference Paper,2,New Zealand
+130,"Liu C.-L., Chang C.-T., Ho J.-H.",Case instance generation and refinement for case-based criminal summary judgments in Chinese,2004,Article,34,China
+134,McLaren B.M.,Extensionally defining principles and cases in ethics: An AI model,2003,Conference Paper,66,United States
+138,Branting L.K.,A reduction-graph model of precedent in legal analysis,2003,Conference Paper,19,United States
+142,"Hoeschl H.C., Bueno T.C.D., Bortolon A., Mattos E.S., Ribeiro M.S., Barcia R.M., Theiss I.",Structured contextual search for the un security council,2003,Conference Paper,9,Brazil
+143,"Liu C.-L., Chang C.-T., Ho J.-H.",Classification and clustering for case-based criminal summary judgments,2003,Conference Paper,7,China
